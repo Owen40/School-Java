@@ -1,0 +1,1 @@
+Scanner class - A specific class that athe programmer should use if that program has to fetch input from the user.
