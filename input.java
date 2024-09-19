@@ -1,6 +1,6 @@
 import java.util.*;
 
-class inputClass {
+class inputJavaClass {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         String name,favcolor;
